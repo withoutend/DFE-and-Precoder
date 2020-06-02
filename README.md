@@ -5,7 +5,7 @@ requirement: Comuunications Toolbox, could be install in Add-Ons of matlab.
 THP.m  
 #A simple matlab simulation of Tomlinson-Harashima Precoder.  
 THP_normal.m  
-#A sightly complex matlab simualtion feature random generated input sequence.  
+#A sightly complex matlab simualtion featuring random generated input sequence.  
 Equalizers.m  
 #A matlab simulation of Equalizers.  
 pic/.  
