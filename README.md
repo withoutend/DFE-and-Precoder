@@ -4,5 +4,7 @@ This is the final project expirement of Prof. An-Yeu's Adaptive Signal Processin
 author: withoutend, jmkevein
 THP.m
 	A matlab simulation of Tomlinson-Harashima Precoder.
+Equalizers.m
+	A matlab simulation of Equalizers.
 pic/.
 	The saved figure of THP.m
